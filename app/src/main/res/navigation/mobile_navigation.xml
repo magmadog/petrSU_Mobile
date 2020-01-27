@@ -9,8 +9,7 @@
         android:id="@+id/navigation_news"
         android:name="com.example.petrsumobile.ui.news.NewsFragment"
         android:label="@string/title_news"
-        tools:layout="@layout/news"
-        android:gravity="center"/>
+        tools:layout="@layout/news"/>
 
     <fragment
         android:id="@+id/navigation_nav"
