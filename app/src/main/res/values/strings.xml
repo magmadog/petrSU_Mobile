@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">PetrSU Mobile</string>
-    <string name="title_news">Новости</string>
-    <string name="title_nav">Навигация</string>
-    <string name="title_schedule">Расписание</string>
-    <string name="title_info">info</string>
-</resources>
